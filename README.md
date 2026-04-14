@@ -1,18 +1,20 @@
 # Hey, I'm Alessandra
 
-**Chief Development Officer** | **Event Operations Strategist** | **AI-Powered Workflow Builder**
+**Operations Strategist** | **AI Automation Consultant** | **Event & Nonprofit Systems Builder**
 
-I sit at the intersection of nonprofit development, event production, and AI — building systems that make complex operations actually work. By day I lead lending and development at a Colorado CDFI. By night (and most weekends) I'm automating everything I can with Claude, building tools, and plotting my move to Italy.
+I sit at the intersection of nonprofit development, event production, and AI — building systems that make complex operations actually work. I'm Cvent Advanced certified, have produced national-scale academic competitions, and now I build automated services for clients through Fiore3 and AI strategy consulting through Svolgere Group.
 
 ---
 
 ### What I Do
 
+**AI Automation Services (Fiore3)** — Building automated workflows, tools, and systems for clients. If it's repetitive, manual, or taking too long, I'll build something smarter.
+
+**AI Strategy & Moral Formation Consulting (Svolgere Group)** — Helping organizations navigate AI adoption with ethical frameworks and practical implementation.
+
 **Nonprofit & Community Development** — CDFI lending, small business development, grant strategy, and compliance for organizations serving rural and underserved communities.
 
-**Event Operations** — End-to-end production for conferences and competitions using Cvent, Award Force, and Asana. Registration builds, judging systems, cross-platform data management, and day-of execution.
-
-**AI-Powered Operations** — I use Claude to build workflows, automate repetitive tasks, and create tools that save hours of manual work. If there's a smarter way to do it, I'll find it (or build it).
+**Event Operations** — End-to-end production for conferences and competitions using Cvent, Award Force, and Asana. Registration builds, judging systems, cross-platform data management, and day-of execution. Cvent Advanced certified.
 
 ---
 
@@ -22,21 +24,21 @@ I sit at the intersection of nonprofit development, event production, and AI —
 |---------|-----------|
 | [Claude Prompt Library](https://github.com/aley-fiore3/claude-prompt-library) | 52 battle-tested prompts + techniques for getting real work done with AI — events, nonprofit, legal, coding, and more. |
 
-*More coming soon — event ops templates, data migration tools, and AI-powered utilities.*
+*More coming soon — automation tools, event ops templates, and data migration utilities.*
 
 ---
 
 ### Tools & Platforms
 
-`Cvent` `Award Force` `Asana` `Claude AI` `Python` `React` `Google Workspace` `Slack` `Notion` `ScoreApp`
+`Cvent (Advanced Certified)` `Award Force` `Asana` `Claude AI` `Python` `React` `Google Workspace` `Slack` `Notion` `ScoreApp`
 
 ---
 
 ### Currently
 
-- Preparing a national academic competition in Washington, DC
-- Studying for Cvent Advanced certification
-- Building an AI moral formation consultancy
+- Building automated services for Fiore3 clients
+- Developing AI strategy consulting through Svolgere Group
+- Finishing a cookbook (allergy-friendly — because eating with 20+ food allergies shouldn't be boring)
 - Planning a 6-month move to Italy
 
 ---
