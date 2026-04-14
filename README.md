@@ -48,7 +48,7 @@ I sit at the intersection of nonprofit development, event production, and AI —
 - [alessandradesiderio.com](https://alessandradesiderio.com)
 - [svolgeregroup.com](https://svolgeregroup.com)
 - [Instagram: @aley_travels](https://instagram.com/aley_travels)
-- [LinkedIn](https://linkedin.com/in/alessandradesiderio))
+- [LinkedIn](https://linkedin.com/in/alessandradesiderio)
 
 ---
 
