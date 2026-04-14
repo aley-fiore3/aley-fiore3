@@ -23,9 +23,9 @@ I sit at the intersection of nonprofit development, event production, and AI —
 | Project | What It Is |
 |---------|-----------|
 | [Claude Prompt Library](https://github.com/aley-fiore3/claude-prompt-library) | 52 battle-tested prompts + techniques for getting real work done with AI — events, nonprofit, legal, coding, and more. |
-
-*More coming soon — automation tools, event ops templates, and data migration utilities.*
-
+| [Event Ops Toolkit](https://github.com/aley-fiore3/event-ops-toolkit) | Plug-and-play templates for Cvent, Award Force, and cross-platform event operations. |
+| [Fiore3 Automation Demos](https://github.com/aley-fiore3/fiore3-automation-demos) | Working automation tools and case studies — email list cleaning, platform migration, ROI calculators. |
+| [Event Data Tools](https://github.com/aley-fiore3/event-data-tools) | Python scripts for cleaning, reconciling, and migrating event data across platforms. |
 ---
 
 ### Tools & Platforms
