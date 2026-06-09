@@ -71,7 +71,6 @@ Nine businesses. One operator. All running on automation.
 - Deploying automated client workflows for Fiore3 Consulting clients
 - Finishing a cookbook (*The Collected Kitchen* — allergy-friendly recipes for 20+ food restrictions)
 - Building AI strategy consulting through [Svolgere Group](https://svolgeregroup.com)
-- Relocating to Italy
 
 ---
 
