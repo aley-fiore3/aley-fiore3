@@ -6,6 +6,8 @@ I build and run nine companies — across consulting, cultural heritage, drone s
 
 That means I embed with clients, diagnose what's broken, ship tools that fix it, and leave behind documentation that makes me unnecessary. Classic forward deployment.
 
+
+**[alessandradesiderio.com](https://alessandradesiderio.com)** · **[fiore3.com](https://fiore3.com)**
 ---
 
 ## What I Do as an FDE
@@ -75,7 +77,8 @@ Nine businesses. One operator. All running on automation.
 
 ## Let's Connect
 
-- [alessandradesiderio.com](https://alessandradesiderio.com)
+- [alessandradesiderio.com](https://alessandradesiderio.com) — portfolio & personal site
+- [fiore3.com](https://fiore3.com) — consulting & client work
 - Instagram: [@aley\_travels](https://instagram.com/aley_travels)
 - [LinkedIn](https://linkedin.com/in/alessandradesiderio)
 - [YouTube](https://youtube.com/@aley_travels)
