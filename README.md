@@ -35,6 +35,7 @@ Tools and frameworks I've built and open-sourced — each one solves a real clie
 | [Event Ops Toolkit](https://github.com/aley-fiore3/event-ops-toolkit) | Templates for Cvent, Award Force, and cross-platform event operations | Reusable client-facing delivery artifacts |
 | [Fiore3 Automation Demos](https://github.com/aley-fiore3/fiore3-automation-demos) | Working demos: email cleaning, data migration, document generation, form routing | End-to-end automation showcase with case studies |
 | [Event Data Tools](https://github.com/aley-fiore3/event-data-tools) | Python scripts for cleaning, migrating, and reconciling event data | Tested, documented, production-grade tooling |
+| [Event Reconciliation Dashboard](https://github.com/aley-fiore3/event-reconciliation-dashboard) | No-code Streamlit dashboard for cleaning and reconciling event registration data | Client-ready, no-code interface on top of the Event Data Tools logic |
 
 ---
 
