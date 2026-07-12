@@ -36,8 +36,8 @@ Tools and frameworks I've built and open-sourced — each one solves a real clie
 | [Fiore3 Automation Demos](https://github.com/aley-fiore3/fiore3-automation-demos) | Working demos: email cleaning, data migration, document generation, form routing | End-to-end automation showcase with case studies |
 | [Event Data Tools](https://github.com/aley-fiore3/event-data-tools) | Python scripts for cleaning, migrating, and reconciling event data | Tested, documented, production-grade tooling |
 | [Event Reconciliation Dashboard](https://github.com/aley-fiore3/event-reconciliation-dashboard) | No-code Streamlit dashboard for cleaning and reconciling event registration data | Client-ready, no-code interface on top of the Event Data Tools logic |
-| [Consulting Engagement Toolkit](https://github.com/aley-fiore3/consulting-engagement-toolkit) | Discovery, SOW, and close-out templates for consulting engagements | Same intake-to-delivery process I run for my own clients | 
-| [RevOps Handoff Audit Toolkit](https://github.com/aley-fiore3/revops-handoff-audit-toolkit) | Audit checklist and trackers for marketing/sales/CS handoffs | Directly maps to the RevOps automation work Fiore3 clients hire for | 
+| [Consulting Engagement Toolkit — Preview](https://github.com/aley-fiore3/consulting-engagement-toolkit-preview) | Overview of the discovery, SOW, and engagement toolkit behind Fiore3 consulting work | Public preview — request the full sample pack via alessandradesiderio.com |
+| [RevOps Handoff Audit Toolkit — Preview](https://github.com/aley-fiore3/revops-handoff-audit-toolkit-preview) | Overview of the handoff audit checklist and lead response tracker behind Fiore3 RevOps work | Public preview — request the full sample pack via fiore3.com |
 | [Sister City Cooperation Toolkit — Preview](https://github.com/aley-fiore3/sister-city-toolkit-preview) | Overview of the MOU, workplan, and partner-mapping toolkit behind Sister City Project | Public preview — request the full sample pack via Sister City Project |
 
 ---
