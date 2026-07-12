@@ -38,7 +38,7 @@ Tools and frameworks I've built and open-sourced — each one solves a real clie
 | [Event Reconciliation Dashboard](https://github.com/aley-fiore3/event-reconciliation-dashboard) | No-code Streamlit dashboard for cleaning and reconciling event registration data | Client-ready, no-code interface on top of the Event Data Tools logic |
 | [Consulting Engagement Toolkit](https://github.com/aley-fiore3/consulting-engagement-toolkit) | Discovery, SOW, and close-out templates for consulting engagements | Same intake-to-delivery process I run for my own clients | 
 | [RevOps Handoff Audit Toolkit](https://github.com/aley-fiore3/revops-handoff-audit-toolkit) | Audit checklist and trackers for marketing/sales/CS handoffs | Directly maps to the RevOps automation work Fiore3 clients hire for | 
-| [Sister City Cooperation Toolkit](https://github.com/aley-fiore3/sister-city-cooperation-toolkit) | MOU, workplan, and partner-mapping templates for municipal cooperation programs | Free sample of the program-design work behind Sister City Project | 
+| [Sister City Cooperation Toolkit — Preview](https://github.com/aley-fiore3/sister-city-toolkit-preview) | Overview of the MOU, workplan, and partner-mapping toolkit behind Sister City Project | Public preview — request the full sample pack via Sister City Project |
 
 ---
 
